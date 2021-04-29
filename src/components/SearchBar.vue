@@ -1,6 +1,6 @@
 <template>
   <div class="search-bar">
-    <input @keypress.enter="onInput" placeholder="아르를 검색해라..">
+    <input @keypress.enter="onInput" placeholder="희진아 언젠가 너가 이런걸 만들 레벨이 되거라..">
   </div>
 </template>
 
